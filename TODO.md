@@ -1,0 +1,5 @@
+- [x] Modify firebase-logger.js to always run updater
+- [x] Update fetchData to store in localStorage when logged out, push to Firebase when logged in
+- [x] Add uploadStoredLogs function and call on login
+- [x] Modify logout in index.html to not sign out from Firebase
+- [x] Add redirect check in login.html if already "logged in"
